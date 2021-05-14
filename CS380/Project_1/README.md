@@ -1,2 +1,2 @@
-# class_projects
-My class related projects
+# Project1 Building Behavior Tree
+Sampple code for behavior tree nodes.
