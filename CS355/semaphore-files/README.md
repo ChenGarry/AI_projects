@@ -1,2 +1,2 @@
-# class_projects
-My class related projects
+# Sempahore
+Implement sempahore functionality using only C++11 features
