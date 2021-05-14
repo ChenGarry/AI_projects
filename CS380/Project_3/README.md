@@ -1,2 +1,2 @@
 # Project3 Terrain Analysis
-Analysis terrain data for AI applications
+Sampple code analysing terrain data for AI applications
