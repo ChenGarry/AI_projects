@@ -1,2 +1,2 @@
-# class_projects
-My class related projects
+# Project2 Pathfinding
+Sampple code for pathfinding algorithms used by AI agent
