@@ -1,2 +1,2 @@
-# class_projects
-My class related projects
+# Quicksort
+Implement iterative quicksort multi-threaded solution
