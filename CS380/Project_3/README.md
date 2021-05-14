@@ -1,2 +1,2 @@
-# class_projects
-My class related projects
+# Project3 Terrain Analysis
+Analysis terrain data for AI applications
