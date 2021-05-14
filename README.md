@@ -1,2 +1,2 @@
-# AI_projects
-My school related AI projects
+# class_projects
+My class related projects
